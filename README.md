@@ -9,4 +9,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=notcure&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notcure&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
