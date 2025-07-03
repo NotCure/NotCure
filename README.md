@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to my alt account! I use this space to try out different ideas and projects. :)<br><br>
+👋 Welcome to my  account! I use this space to try out different ideas and projects. :)<br><br>
 
 
 # 💻 Tech Stack:
